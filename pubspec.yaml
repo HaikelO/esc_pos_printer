@@ -9,9 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  esc_pos_utils:
-    git:
-      url: git://github.com/CastawayLabs/esc_pos_utils.git
+  esc_pos_utils: ^1.0.0
   # esc_pos_utils:
   #   path: ../esc_pos_utils
   charset_converter: ^2.0.0
